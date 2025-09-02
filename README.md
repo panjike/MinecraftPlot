@@ -19,14 +19,14 @@
 
 ## 📋 Table of Contents
 
-- [🎯 About](#about)
-- [✨ Key Features](#key-features) 
-- [🛠️ Complete Tools Catalog](#complete-tools-catalog)
-- [🌟 What Makes Us Special](#what-makes-us-special)
-- [👥 Who Can Benefit](#who-can-benefit)
-- [🎯 Popular Tools](#popular-tools)
-- [💡 How to Use](#how-to-use)
-- [🌍 Community & Support](#community--support)
+- [🎯 About](#-about)
+- [✨ Key Features](#-key-features) 
+- [🛠️ Complete Tools Catalog](#️-complete-tools-catalog)
+- [🌟 What Makes Us Special](#-what-makes-us-special)
+- [👥 Who Can Benefit](#-who-can-benefit)
+- [🎯 Popular Tools](#-popular-tools)
+- [💡 How to Use](#-how-to-use)
+- [🌍 Community & Support](#-community--support)
 
 ---
 
