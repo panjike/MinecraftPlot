@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 About
+## 🎯 About {#about}
 
 **Minecraft Plot** is the world's most comprehensive Minecraft tools platform, offering 39+ professionally crafted tools designed for every type of Minecraft enthusiast. Whether you're a casual player looking to enhance your builds, a content creator seeking professional resources, or a server administrator managing a community, our platform provides everything you need in one convenient location.
 
@@ -47,7 +47,7 @@
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features {#key-features}
 
 ### 🎨 Creative & Design (12 Tools)
 Transform your Minecraft experience with our comprehensive creative toolkit designed for builders, designers, and content creators:
@@ -110,7 +110,7 @@ Unique tools for advanced Minecraft enthusiasts:
 
 ---
 
-## 🛠️ Complete Tools Catalog
+## 🛠️ Complete Tools Catalog {#tools-catalog}
 
 ### 🎨 Creative & Design Tools (12 Tools)
 
@@ -241,7 +241,7 @@ Create advanced command selectors with visual editor and parameter validation.
 
 ---
 
-## 🌟 What Makes Us Special
+## 🌟 What Makes Us Special {#what-makes-us-special}
 
 ### 🎯 Unmatched Collection
 With 39+ professional-grade tools, we offer the most comprehensive Minecraft toolset available anywhere. From simple color code generators to complex redstone simulators, we've got every need covered.
@@ -260,7 +260,7 @@ All our tools are completely free to use with no hidden costs, premium tiers, or
 
 ---
 
-## 👥 Who Can Benefit
+## 👥 Who Can Benefit {#who-can-benefit}
 
 ### 🎮 Players & Builders
 **Enhance your gameplay and building experience**
@@ -296,7 +296,7 @@ All our tools are completely free to use with no hidden costs, premium tiers, or
 
 ---
 
-## 🎯 Popular Tools
+## 🎯 Popular Tools {#popular-tools}
 
 ### 🥇 Most Used Tools This Week
 
@@ -324,7 +324,7 @@ Interactive guide to all 124 Minecraft achievements with progress tracking and c
 
 ---
 
-## 💡 How to Use
+## 💡 How to Use {#how-to-use}
 
 ### 🚀 Getting Started
 1. **Visit our website** at [minecraftplot.com](https://www.minecraftplot.com)
@@ -362,7 +362,7 @@ Many tools work better when used together:
 
 ---
 
-## 🌍 Community & Support
+## 🌍 Community & Support {#community--support}
 
 ### 💬 Join Our Community
 - **🌐 Website**: [minecraftplot.com](https://www.minecraftplot.com) - Main platform with all tools
@@ -377,6 +377,7 @@ Many tools work better when used together:
 
 ### 🎉 Community Highlights
 - **10,000+** active users worldwide
+- **1 million+** tools used monthly  
 - **39** professional tools and counting
 - **24/7** availability and support
 - **0** cost - completely free forever
